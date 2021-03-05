@@ -1,0 +1,22 @@
+body {
+    background: linear-gradient(to right, #c04848, #480048);
+    min-height: 100vh;
+    overflow-x: hidden;
+}
+
+.text-gray {
+    color: #aaa
+}
+
+img {
+    height: 180px;
+    width: auto;
+}
+
+.row{
+    padding: 5px;
+    margin-top: 10px;
+}
+button{
+    margin-right: 5px;
+}
