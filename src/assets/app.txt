@@ -1,0 +1,888 @@
+[
+    {
+        "offers": [
+            {
+                "offer_name": "Flipkart Axis Bank Credit Card",
+                "offer_description": "Bank Offer5% Unlimited Cashback on Flipkart Axis Bank Credit Card"
+            },
+            {
+                "offer_name": "Extra ₹2901 off",
+                "offer_description": "Special PriceExtra ₹2901 off(price inclusive of discount)"
+            }
+        ],
+        "product_specifications": [
+            "64 GB ROM",
+            "15.49 cm (6.1 inch) Liquid Retina HD Display",
+            "12MP + 12MP | 12MP Front Camera",
+            "A13 Bionic Chip Processor"
+        ],
+        "reviews": [],
+        "pid": 100,
+        "product_name": "Apple iPhone 11 (White, 64 GB)",
+        "price": 51999,
+        "product_image": "https://rukminim1.flixcart.com/image/416/416/kgiaykw0/mobile/3/x/e/apple-iphone-11-mhdc3hn-a-original-imafwqepx5yxwctc.jpeg?q=70",
+        "category": "Electronics",
+        "sub_category": "Mobiles",
+        "seller": "TrueComRetai",
+    },
+    {
+        "offers": [
+            {
+                "offer_name": "Extra ₹28001 off",
+                "offer_description": "Special PriceExtra ₹28001 off(price inclusive of discount)"
+            },
+            {
+                "offer_name": "Flipkart Axis Bank Credit Card",
+                "offer_description": "Bank Offer5% Unlimited Cashback on Flipkart Axis Bank Credit Card"
+            },
+            {
+                "offer_name": "Extra ₹2901 off",
+                "offer_description": "Special PriceExtra ₹2901 off(price inclusive of discount)"
+            }
+        ],
+        "product_specifications": [
+            "8 GB RAM | 128 GB ROM | Expandable Upto 1 TB",
+            "17.02 cm (6.7 inch) Quad HD+ Display",
+            "64 MP + 12 MP +12 MP + VGA Depth Camera | 10MP Front Camera",
+            "4500 mAh Lithium-ion Battery",
+            "Exynos 990 Processor",
+            "Super AMOLED Display"
+        ],
+        "reviews": [],
+        "pid": 101,
+        "product_name": "Samsung Galaxy S20+ (Cosmic Gray, 128 GB)  (8 GB RAM)",
+        "price": 54999,
+        "product_image": "https://rukminim1.flixcart.com/image/416/416/k6mibgw0/mobile/8/v/h/samsung-galaxy-s20-sm-g985fzadinu-original-imafpfkbqg3hpmgt.jpeg?q=70",
+        "category": "Electronics",
+        "sub_category": "Mobiles",
+        "seller": "TrueComRetai"
+    },
+    {
+        "offers": [
+            {
+                "Offer_name": "Flipkart Axis Bank Credit Card",
+                "offer_description": "Bank Offer5% Unlimited Cashback on Flipkart Axis Bank Credit Card"
+            },
+            {
+                "Offer_name": "GST",
+                "offer_description": "GST Invoice is available for this Product"
+            }
+        ],
+        "product_specifications": [
+            "4 GB RAM | 64 GB ROM | Expandable Upto 256 GB",
+            "16.51 cm (6.5 inch) HD+ Display",
+            "12MP + 2MP + 2MP | 8MP Front Camera",
+            "5000 mAh Lithium-ion Battery",
+            "Qualcomm Snapdragon 665 Processor"
+        ],
+        "reviews": [],
+        "pid": 102,
+        "product_name": "Nokia 5.4 (Dusk, 64 GB)  (4 GB RAM)",
+        "price": 13999,
+        "product_image": "https://rukminim1.flixcart.com/image/416/416/kkwwu4w0/mobile/s/t/7/5-4-hq5020m517000-nokia-original-imagy5bqmghczguz.jpeg?q=70",
+        "category": "Electronics",
+        "sub_category": "Mobiles",
+        "seller": "Wizrob Fashin"
+    },
+    {
+        "offers": [
+            {
+                "offer_name": "Extra ₹8000 off",
+                "offer_description": "Special PriceExtra ₹8000 off(price inclusive of discount)"
+            },
+            {
+                "offer_name": "Flipkart Axis Bank Credit Card",
+                "offer_description": "Bank Offer5% Unlimited Cashback on Flipkart Axis Bank Credit Card"
+            },
+            {
+                "offer_name": "Extra ₹2901 off",
+                "offer_description": "Special PriceExtra ₹2901 off(price inclusive of discount)"
+            }
+        ],
+        "product_specifications": [
+            "128 GB ROM",
+            "17.02 cm (6.7 inch) Super Retina XDR Display",
+            "12MP + 12MP + 12MP | 12MP Front Camera",
+            "A14 Bionic Chip with Next Generation Neural Engine Processor",
+            "Ceramic Shield | IP68 Water Resistance",
+            "LiDAR Scanner for Improved AR Experiences"
+        ],
+        "reviews": [],
+        "pid": 103,
+        "product_name": "Apple iPhone 12 Pro Max (Graphite, 128 GB)",
+        "price": 129900,
+        "product_image": "https://rukminim1.flixcart.com/image/416/416/kg8avm80/mobile/5/z/w/apple-iphone-12-pro-max-dummyapplefsn-original-imafwgcy7ugz3y2z.jpeg?q=70",
+        "category": "Electronics",
+        "sub_category": "Mobiles",
+        "seller": "TrueComRetai"
+    },
+    {
+        "offers": [
+            {
+                "Offer_name": "Flipkart Axis Bank Credit Card",
+                "offer_description": "Bank Offer5% Unlimited Cashback on Flipkart Axis Bank Credit Card"
+            },
+            {
+                "Offer_name": "GST",
+                "offer_description": "GST Invoice is available for this Product"
+            }
+        ],
+        "product_specifications": [
+            "4 GB RAM | 64 GB ROM | Expandable Upto 256 GB",
+            "16.51 cm (6.5 inch) HD+ Display",
+            "12MP + 2MP + 2MP | 8MP Front Camera",
+            "5000 mAh Lithium-ion Battery",
+            "Qualcomm Snapdragon 665 Processor"
+        ],
+        "reviews": [
+            {
+                "reviewId": 101,
+                "givenBy": "Ravikumar",
+                "description": "This is an awesome product",
+                "rating": 4.5
+            }
+        ],
+        "pid": 104,
+        "product_name": "Realme Narzo 20A (Glory Silver, 64 GB)  (4 GB RAM)",
+        "price": 9499,
+        "product_image": "https://rukminim1.flixcart.com/image/416/416/kfbfr0w0/mobile/y/f/s/realme-narzo-20a-rmx2050-original-imafvswuehda4esc.jpeg?q=70",
+        "category": "Electronics",
+        "sub_category": "Mobiles",
+        "seller": "GRAHGOODS REAIL"
+    },
+    {
+        "offers": [
+            {
+                "offer_name": "Extra ₹8000 off",
+                "offer_description": "Special PriceExtra ₹8000 off(price inclusive of discount)"
+            },
+            {
+                "offer_name": "Flipkart Axis Bank Credit Card",
+                "offer_description": "Bank Offer5% Unlimited Cashback on Flipkart Axis Bank Credit Card"
+            },
+            {
+                "offer_name": "Extra ₹2901 off",
+                "offer_description": "Special PriceExtra ₹2901 off(price inclusive of discount)"
+            }
+        ],
+        "product_specifications": [
+            "8 GB RAM | 128 GB ROM",
+            "16.94 cm (6.67 inch) Full HD+ Display",
+            "64MP Rear Camera | 20MP Front Camera",
+            "5000 mAh Li-ion Polymer Battery",
+            "Qualcomm Snapdragon 865 Processor",
+            "144Hz Intelligent AdaptiveSync Display"
+        ],
+        "reviews": [],
+        "pid": 105,
+        "product_name": "Mi 10T (Lunar Silver, 128 GB)  (8 GB RAM)",
+        "price": 34999,
+        "product_image": "https://rukminim1.flixcart.com/image/416/416/kg9qbgw0/mobile/8/y/a/mi-10t-mzb07zcin-original-imafwju54qpq5zwq.jpeg?q=70",
+        "category": "Electronics",
+        "sub_category": "Mobiles",
+        "seller": "TrueComRetai"
+    },
+    {
+        "offers": [
+            {
+                "offer_name": "Extra ₹8000 off",
+                "offer_description": "Special PriceExtra ₹8000 off(price inclusive of discount)"
+            },
+            {
+                "offer_name": "Flipkart Axis Bank Credit Card",
+                "offer_description": "Bank Offer5% Unlimited Cashback on Flipkart Axis Bank Credit Card"
+            },
+            {
+                "offer_name": "Extra ₹2901 off",
+                "offer_description": "Special PriceExtra ₹2901 off(price inclusive of discount)"
+            }
+        ],
+        "product_specifications": [
+            "3 GB RAM | 64 GB ROM | Expandable Upto 2 TB",
+            "16.76 cm (6.6 inch) HD+ Display",
+            "13MP + 5MP + 2MP + 2MP | 8MP Front Camera",
+            "4000 mAh Lithium Polymer Battery",
+            "MediaTek Helio P22 (MT6762) Processor",
+            "Military Standard 810G Certified for Durability"
+        ],
+        "reviews": [],
+        "pid": 106,
+        "product_name": "LG K42 (Gray, 64 GB)  (3 GB RAM)",
+        "price": 10990,
+        "product_image": "https://rukminim1.flixcart.com/image/416/416/kkbh8cw0/mobile/f/2/o/k42-lmk420ymw-lg-original-imafzp3yrjcmapsz.jpeg?q=70",
+        "category": "Electronics",
+        "sub_category": "Mobiles",
+        "seller": "OmniTechRetal"
+    },
+    {
+        "offers": [
+            {
+                "Offer_name": "Flipkart Axis Bank Credit Card",
+                "offer_description": "Bank Offer5% Unlimited Cashback on Flipkart Axis Bank Credit Card"
+            },
+            {
+                "Offer_name": "GST",
+                "offer_description": "GST Invoice is available for this Product"
+            }
+        ],
+        "product_specifications": [
+            "pack of 1",
+            "quantity:100"
+        ],
+        "reviews": [],
+        "pid": 107,
+        "product_name": "Happilo Natural Premium Californian Almonds",
+        "price": 100,
+        "product_image": "https://rukminim1.flixcart.com/image/416/416/kkr72q80/nut-dry-fruit/w/h/g/100-natural-california-pouch-happilo-original-imagyf94x3fgjqff.jpeg?q=70",
+        "category": "Grocery",
+        "sub_category": "Staples",
+        "seller": "SuperComNet"
+    },
+    {
+        "offers": [
+            {
+                "offer_name": "Extra ₹8000 off",
+                "offer_description": "Special PriceExtra ₹8000 off(price inclusive of discount)"
+            },
+            {
+                "offer_name": "Flipkart Axis Bank Credit Card",
+                "offer_description": "Bank Offer5% Unlimited Cashback on Flipkart Axis Bank Credit Card"
+            },
+            {
+                "offer_name": "Extra ₹2901 off",
+                "offer_description": "Special PriceExtra ₹2901 off(price inclusive of discount)"
+            }
+        ],
+        "product_specifications": [
+            "4 GB RAM | 64 GB ROM | Expandable Upto 512 GB",
+            "16.94 cm (6.67 inch) Full HD+ Display",
+            "48MP + 8MP + 5MP + 2MP | 16MP Front Camera",
+            "5000 mAh Lithium-ion Polymer Battery",
+            "Qualcomm Snapdragon 720G Processor",
+            "Military Standard 810G Certified for Durability"
+        ],
+        "reviews": [],
+        "pid": 108,
+        "product_name": "POCO M2 Pro (Green and Greener, 64 GB)  (4 GB RAM)",
+        "price": 12999,
+        "product_image": "https://rukminim1.flixcart.com/image/416/416/kcauaa80/mobile/c/w/a/poco-m2-pro-mzb9625in-original-imaftga2ytmnt7ac.jpeg?q=70",
+        "category": "Electronics",
+        "sub_category": "Mobiles",
+        "seller": "Vision Star"
+    },
+    {
+        "offers": [
+            {
+                "offer_name": "Extra ₹8000 off",
+                "offer_description": "Special PriceExtra ₹8000 off(price inclusive of discount)"
+            },
+            {
+                "offer_name": "Flipkart Axis Bank Credit Card",
+                "offer_description": "Bank Offer5% Unlimited Cashback on Flipkart Axis Bank Credit Card"
+            },
+            {
+                "offer_name": "Extra ₹2901 off",
+                "offer_description": "Special PriceExtra ₹2901 off(price inclusive of discount)"
+            }
+        ],
+        "product_specifications": [
+            "6 GB RAM | 128 GB ROM",
+            "15.75 cm (6.2 inch) Display",
+            "16MP Rear Camera | 5MP Front Camera",
+            "2510 mAh Battery",
+            "SDM710 Processor",
+            "Interactive Quick View Display"
+        ],
+        "reviews": [],
+        "pid": 109,
+        "product_name": "Motorola Razr (Gold, 128 GB)  (6 GB RAM)",
+        "price": 74999,
+        "product_image": "https://rukminim1.flixcart.com/image/416/416/ka9ytu80/mobile/v/c/d/motorola-razr-paht001-0in-original-imafrwyfn5gc2jwn.jpeg?q=70",
+        "category": "Electronics",
+        "sub_category": "Mobiles",
+        "seller": "Vision Star"
+    },
+    {
+        "offers": [
+            {
+                "offer_name": "Extra ₹8000 off",
+                "offer_description": "Special PriceExtra ₹8000 off(price inclusive of discount)"
+            },
+            {
+                "offer_name": "Flipkart Axis Bank Credit Card",
+                "offer_description": "Bank Offer5% Unlimited Cashback on Flipkart Axis Bank Credit Card"
+            },
+            {
+                "offer_name": "Extra ₹2901 off",
+                "offer_description": "Special PriceExtra ₹2901 off(price inclusive of discount)"
+            }
+        ],
+        "product_specifications": [
+            "12 GB RAM | 128 GB ROM",
+            "16.74 cm (6.59 inch) Full HD+ Display",
+            "64MP + 13MP + 5MP | 24MP Front Camera",
+            "6000 mAh Lithium Polymer Battery",
+            "Qualcomm Snapdragon 865+ (SM8250) Processor",
+            "Interactive Quick View Display"
+        ],
+        "reviews": [],
+        "pid": 110,
+        "product_name": "Asus ROG Phone 3 (Black, 128 GB)  (12 GB RAM)",
+        "price": 49999,
+        "product_image": "https://rukminim1.flixcart.com/image/416/416/kcuug7k0/mobile/g/h/e/asus-rog-phone-3-zs661ks-6a006in-original-imaftwc6nmyuyekd.jpeg?q=70",
+        "category": "Electronics",
+        "sub_category": "Mobiles",
+        "seller": "Vision Star"
+    },
+    {
+        "offers": [
+            {
+                "offer_name": "Extra ₹8000 off",
+                "offer_description": "Special PriceExtra ₹8000 off(price inclusive of discount)"
+            },
+            {
+                "offer_name": "Flipkart Axis Bank Credit Card",
+                "offer_description": "Bank Offer5% Unlimited Cashback on Flipkart Axis Bank Credit Card"
+            },
+            {
+                "offer_name": "Extra ₹2901 off",
+                "offer_description": "Special PriceExtra ₹2901 off(price inclusive of discount)"
+            }
+        ],
+        "product_specifications": [
+            "Carry It Along 2 in 1 Laptop",
+            "13.3 inch Full HD LED Backlit Display",
+            "Light Laptop without Optical Disk Drive"
+        ],
+        "reviews": [],
+        "pid": 111,
+        "product_name": "HP Envy x360 Ryzen 5 Hexa Core 4500U - (8 GB/256 GB SSD/Windows 10 Home) 13-ay0044AU 2 in 1 Laptop  (13.3 inch, Nightfall Black, 1.32 kg, With MS Office)",
+        "price": 69990,
+        "product_image": "https://rukminim1.flixcart.com/image/416/416/kkmwr680/computer/9/t/h/na-2-in-1-laptop-hp-original-imafzxshhcgtgrzw.jpeg?q=70",
+        "category": "Electronics",
+        "sub_category": "Laptops",
+        "seller": "RetailNet"
+   },
+    {
+        "offers": [
+            {
+                "offer_name": "Extra ₹8000 off",
+                "offer_description": "Special PriceExtra ₹8000 off(price inclusive of discount)"
+            },
+            {
+                "offer_name": "Flipkart Axis Bank Credit Card",
+                "offer_description": "Bank Offer5% Unlimited Cashback on Flipkart Axis Bank Credit Card"
+            },
+            {
+                "offer_name": "Extra ₹2901 off",
+                "offer_description": "Special PriceExtra ₹2901 off(price inclusive of discount)"
+            }
+        ],
+        "product_specifications": [
+            "NVIDIA GeForce GTX 1650",
+            "15.6 inch Full HD LED Backlit Display",
+            "Light Laptop without Optical Disk Drive",
+            "Pre-installed Genuine Windows 10 OS"
+        ],
+        "reviews": [],
+        "pid": 112,
+        "product_name": "HP Pavilion Gaming Ryzen 5 Quad Core 3550H",
+        "price": 52990,
+        "product_image": "https://rukminim1.flixcart.com/image/416/416/kcm9t3k0/computer/q/x/r/hp-na-gaming-laptop-original-imaftpesbvfxgw9t.jpeg?q=70",
+        "category": "Electronics",
+        "sub_category": "Laptops",
+        "seller": "PETILANTE Onine"
+    },
+    {
+        "offers": [
+            {
+                "offer_name": "AU Bank Debit Cards",
+                "offer_description": "Bank Offer10% Instant Discount on AU Bank Debit Cards"
+            },
+            {
+                "offer_name": "Flipkart Axis Bank Credit Card",
+                "offer_description": "Bank Offer5% Unlimited Cashback on Flipkart Axis Bank Credit Card"
+            }
+        ],
+        "product_specifications": [
+            "Pack of 1",
+            "Quantity:500 g",
+            "Type:Dates",
+            "Maximum Shelf Life:9 Months"
+        ],
+        "reviews": [],
+        "pid": 113,
+        "product_name": "Ziofit Classic Sultan Dates  (Buy 1 Get 1 (500g Each) Free)  (500 g)",
+        "price": 193,
+        "product_image": "https://rukminim1.flixcart.com/image/416/416/kgcl7680/nut-dry-fruit/u/u/b/500-classic-sultan-pouch-ziofit-original-imafwhnggzbf2hje.jpeg?q=70",
+        "category": "Grocery",
+        "sub_category": "Staples",
+        "seller": "SuperComNet"
+    },
+    {
+        "offers": [
+            {
+                "offer_name": "AU Bank Debit Cards",
+                "offer_description": "Bank Offer10% Instant Discount on AU Bank Debit Cards"
+            },
+            {
+                "offer_name": "Flipkart Axis Bank Credit Card",
+                "offer_description": "Bank Offer5% Unlimited Cashback on Flipkart Axis Bank Credit Card"
+            }
+        ],
+        "product_specifications": [
+            "Pack of 1",
+            "Quantity:500 g",
+            "Type:Dates",
+            "Maximum Shelf Life:9 Months"
+        ],
+        "reviews": [],
+        "pid": 114,
+        "product_name": "Regency Pitted Prunes  (240 g)",
+        "price": 164,
+        "product_image": "https://rukminim1.flixcart.com/image/416/416/k7285u80/nut-dry-fruit/j/h/n/240-dry-pitted-pouch-regency-original-imafpdm6jxgsfy3y.jpeg?q=70",
+        "category": "Grocery",
+        "sub_category": "Staples",
+        "seller": "SuperComNet"
+    },
+    {
+        "offers": [
+            {
+                "offer_name": "AU Bank Debit Cards",
+                "offer_description": "Bank Offer10% Instant Discount on AU Bank Debit Cards"
+            },
+            {
+                "offer_name": "Flipkart Axis Bank Credit Card",
+                "offer_description": "Bank Offer5% Unlimited Cashback on Flipkart Axis Bank Credit Card"
+            }
+        ],
+        "product_specifications": [
+            "Pack of 1",
+            "Quantity:500 g",
+            "Type:Dates",
+            "Maximum Shelf Life:9 Months"
+        ],
+        "reviews": [],
+        "pid": 115,
+        "product_name": "Britannia Good Day Butter Cookies  (120 g)",
+        "price": 20,
+        "product_image": "https://rukminim1.flixcart.com/image/416/416/k9u8zgw0/cookie-biscuit/b/t/y/150-good-day-butter-cookies-britannia-original-imafrgxfzbsczhfh.jpeg?q=70",
+        "category": "Grocery",
+        "sub_category": "Snacks&Beverages",
+        "seller": "SuperComNet"
+    },
+    {
+        "offers": [
+            {
+                "offer_name": "AU Bank Debit Cards",
+                "offer_description": "Bank Offer10% Instant Discount on AU Bank Debit Cards"
+            },
+            {
+                "offer_name": "Flipkart Axis Bank Credit Card",
+                "offer_description": "Bank Offer5% Unlimited Cashback on Flipkart Axis Bank Credit Card"
+            }
+        ],
+        "product_specifications": [
+            "Pack of 1",
+            "Quantity:500 g",
+            "Type:Dates",
+            "Maximum Shelf Life:9 Months"
+        ],
+        "reviews": [],
+        "pid": 116,
+        "product_name": "Sunfeast Dark Fantasy Choco Fills  (300 g)",
+        "price": 98,
+        "product_image": "https://rukminim1.flixcart.com/image/416/416/j612c280/cookie-biscuit/u/g/f/300-dark-fantasy-chocofills-cream-biscuit-sunfeast-original-imaewh4hqahpwk5f.jpeg?q=70",
+        "category": "Grocery",
+        "sub_category": "Snacks&Beverages",
+        "seller": "SuperComNet"
+    },
+    {
+        "offers": [
+            {
+                "offer_name": "AU Bank Debit Cards",
+                "offer_description": "Bank Offer10% Instant Discount on AU Bank Debit Cards"
+            },
+            {
+                "offer_name": "Flipkart Axis Bank Credit Card",
+                "offer_description": "Bank Offer5% Unlimited Cashback on Flipkart Axis Bank Credit Card"
+            }
+        ],
+        "product_specifications": [
+            "Pack of 1",
+            "Quantity:500 g",
+            "Type:Dates",
+            "Maximum Shelf Life:9 Months"
+        ],
+        "reviews": [],
+        "pid": 117,
+        "product_name": "Karachi Bakery Fruit Biscuits  (200 g)",
+        "price": 82,
+        "product_image": "https://rukminim1.flixcart.com/image/416/416/jbl3zbk0/cookie-biscuit/h/f/h/250-fruit-biscuits-karachi-bakery-original-imafywjttvmgexth.jpeg?q=70",
+        "category": "Grocery",
+        "sub_category": "Snacks&Beverages",
+        "seller": "SuperComNet"
+    },
+    {
+        "offers": [
+            {
+                "offer_name": "AU Bank Debit Cards",
+                "offer_description": "Bank Offer10% Instant Discount on AU Bank Debit Cards"
+            },
+            {
+                "offer_name": "Flipkart Axis Bank Credit Card",
+                "offer_description": "Bank Offer5% Unlimited Cashback on Flipkart Axis Bank Credit Card"
+            }
+        ],
+        "product_specifications": [
+            "Pack of 1",
+            "Quantity:500 g",
+            "Type:Dates",
+            "Maximum Shelf Life:9 Months"
+        ],
+        "reviews": [],
+        "pid": 118,
+        "product_name": "Kwality Choco Flakes  (75 g, Box)",
+        "price": 60,
+        "product_image": "https://rukminim1.flixcart.com/image/416/416/kgjqefk0/cereal-flake/g/c/m/75-choco-flakes-tetrapack-kwality-original-imafwrgyyp2yzdf8.jpeg?q=70",
+        "category": "Grocery",
+        "sub_category": "packaged-food",
+        "seller": "SuperComNet"
+    },
+    {
+        "offers": [
+            {
+                "offer_name": "AU Bank Debit Cards",
+                "offer_description": "Bank Offer10% Instant Discount on AU Bank Debit Cards"
+            },
+            {
+                "offer_name": "Flipkart Axis Bank Credit Card",
+                "offer_description": "Bank Offer5% Unlimited Cashback on Flipkart Axis Bank Credit Card"
+            }
+        ],
+        "product_specifications": [
+            "Pack of 1",
+            "Quantity:500 g",
+            "Type:Dates",
+            "Maximum Shelf Life:9 Months"
+        ],
+        "reviews": [],
+        "pid": 119,
+        "product_name": "Saffola Peppy Tomato Masala Oats  (500 g, Pouch)",
+        "price": 171,
+        "product_image": "https://rukminim1.flixcart.com/image/416/416/kidgnm80-0/cereal-flake/9/r/v/peppy-tomato-masala-oats-pouch-saffola-original-imafy67rugccmjnf.jpeg?q=70",
+        "category": "Grocery",
+        "sub_category": "packaged-food",
+        "seller": "SuperComNet"
+    },
+    {
+        "offers": [
+            {
+                "offer_name": "AU Bank Debit Cards",
+                "offer_description": "Bank Offer10% Instant Discount on AU Bank Debit Cards"
+            },
+            {
+                "offer_name": "Flipkart Axis Bank Credit Card",
+                "offer_description": "Bank Offer5% Unlimited Cashback on Flipkart Axis Bank Credit Card"
+            }
+        ],
+        "product_specifications": [
+            "Pack of 1",
+            "Quantity:500 g",
+            "Type:Dates",
+            "Maximum Shelf Life:9 Months"
+        ],
+        "reviews": [],
+        "pid": 120,
+        "product_name": "Kellogg's Crunchy Granola Chocolate & Almonds  (450 g, Pouch)",
+        "price": 315,
+        "product_image": "https://rukminim1.flixcart.com/image/416/416/k9u8zgw0/cereal-flake/c/v/m/450-crunchy-granola-chocolate-almonds-pouch-kellogg-original-imafrjhhhkfzyzzs.jpeg?q=70",
+        "category": "Grocery",
+        "sub_category": "packaged-food",
+        "seller": "SuperComNet"
+    },
+    {
+        "offers": [
+            {
+                "offer_name": "AU Bank Debit Cards",
+                "offer_description": "Bank Offer10% Instant Discount on AU Bank Debit Cards"
+            },
+            {
+                "offer_name": "Flipkart Axis Bank Credit Card",
+                "offer_description": "Bank Offer5% Unlimited Cashback on Flipkart Axis Bank Credit Card"
+            }
+        ],
+        "product_specifications": [
+            "Pack of 1",
+            "Quantity:500 g",
+            "Type:Dates",
+            "Maximum Shelf Life:9 Months"
+        ],
+        "reviews": [],
+        "pid": 121,
+        "product_name": "Amul Dark Chocolate Bars  (150 g)",
+        "price": 90,
+        "product_image": "https://rukminim1.flixcart.com/image/416/416/jievpu80/chocolate/q/b/r/150-dark-chocolate-amul-original-imaf67sm9b6ap8ed.jpeg?q=70",
+        "category": "Grocery",
+        "sub_category": "packaged-food",
+        "seller": "SuperComNet"
+    },
+    {
+        "offers": [
+            {
+                "offer_name": "AU Bank Debit Cards",
+                "offer_description": "Bank Offer10% Instant Discount on AU Bank Debit Cards"
+            },
+            {
+                "offer_name": "Flipkart Axis Bank Credit Card",
+                "offer_description": "Bank Offer5% Unlimited Cashback on Flipkart Axis Bank Credit Card"
+            }
+        ],
+        "product_specifications": [
+            "Pack of 1",
+            "Quantity:500 g",
+            "Type:Dates",
+            "Maximum Shelf Life:9 Months"
+        ],
+        "reviews": [],
+        "pid": 122,
+        "product_name": "Parachute Pure Coconut Hair Oil  (300 ml)",
+        "price": 122,
+        "product_image": "https://rukminim1.flixcart.com/image/416/416/jievpu80/chocolate/q/b/r/150-dark-chocolate-amul-original-imaf67sm9b6ap8ed.jpeg?q=70",
+        "category": "Grocery",
+        "sub_category": "Personal&BabyCare",
+        "seller": "SuperComNet"
+    },
+    {
+        "offers": [
+            {
+                "offer_name": "AU Bank Debit Cards",
+                "offer_description": "Bank Offer10% Instant Discount on AU Bank Debit Cards"
+            },
+            {
+                "offer_name": "Flipkart Axis Bank Credit Card",
+                "offer_description": "Bank Offer5% Unlimited Cashback on Flipkart Axis Bank Credit Card"
+            }
+        ],
+        "product_specifications": [
+            "Pack of 1",
+            "Quantity:500 g",
+            "Type:Dates",
+            "Maximum Shelf Life:9 Months"
+        ],
+        "reviews": [],
+        "pid": 123,
+        "product_name": "Engage M1 Perfume Body Spray - For Men  (120 ml)",
+        "price": 166,
+        "product_image": "https://rukminim1.flixcart.com/image/416/416/jvfk58w0/deodorant/a/c/t/120-m1-perfume-body-spray-engage-men-original-imaf9zghyuctften.jpeg?q=70",
+        "category": "Grocery",
+        "sub_category": "Personal&BabyCare",
+        "seller": "SuperComNet"
+    },
+    {
+        "offers": [
+            {
+                "offer_name": "AU Bank Debit Cards",
+                "offer_description": "Bank Offer10% Instant Discount on AU Bank Debit Cards"
+            },
+            {
+                "offer_name": "Flipkart Axis Bank Credit Card",
+                "offer_description": "Bank Offer5% Unlimited Cashback on Flipkart Axis Bank Credit Card"
+            }
+        ],
+        "product_specifications": [
+            "Pack of 1",
+            "Quantity:500 g",
+            "Type:Dates",
+            "Maximum Shelf Life:9 Months"
+        ],
+        "reviews": [],
+        "pid": 124,
+        "product_name": "NIVEA MEN Dark Spot Reduction Creme  (75 ml)",
+        "price": 179,
+        "product_image": "https://rukminim1.flixcart.com/image/416/416/jtbtt3k0/fairness/r/t/u/75-dark-spot-reduction-creme-nivea-men-original-imafeph8zndszhk9.jpeg?q=70",
+        "category": "Grocery",
+        "sub_category": "Personal&BabyCare",
+        "seller": "SuperComNet"
+    },
+    {
+        "offers": [
+            {
+                "offer_name": "AU Bank Debit Cards",
+                "offer_description": "Bank Offer10% Instant Discount on AU Bank Debit Cards"
+            },
+            {
+                "offer_name": "Flipkart Axis Bank Credit Card",
+                "offer_description": "Bank Offer5% Unlimited Cashback on Flipkart Axis Bank Credit Card"
+            }
+        ],
+        "product_specifications": [
+            "Pack of 1",
+            "Quantity:500 g",
+            "Type:Dates",
+            "Maximum Shelf Life:9 Months"
+        ],
+        "reviews": [],
+        "pid": 125,
+        "product_name": "Striped Men Polo Neck White T-Shirt",
+        "price": 399,
+        "product_image": "https://rukminim1.flixcart.com/image/800/960/kjkbv680-0/t-shirt/9/v/o/m-t285hs-as7whdngr-seven-rocks-original-imafz3wkfs8pevqc.jpeg?q=50",
+        "category": "Fashion",
+        "sub_category": "clothing-and-accessories",
+        "seller": "SuperComNet"
+    },
+    {
+        "offers": [
+            {
+                "offer_name": "AU Bank Debit Cards",
+                "offer_description": "Bank Offer10% Instant Discount on AU Bank Debit Cards"
+            },
+            {
+                "offer_name": "Flipkart Axis Bank Credit Card",
+                "offer_description": "Bank Offer5% Unlimited Cashback on Flipkart Axis Bank Credit Card"
+            }
+        ],
+        "product_specifications": [
+            "Pack of 1",
+            "Quantity:500 g",
+            "Type:Dates",
+            "Maximum Shelf Life:9 Months"
+        ],
+        "reviews": [],
+        "pid": 126,
+        "product_name": "Striped Men Round Neck Blue T-Shirt",
+        "price": 375,
+        "product_image": "https://rukminim1.flixcart.com/image/800/960/kj4m0sw0-0/t-shirt/5/c/4/s-tsrt-303-reya-original-imafyrjprxpfbhqr.jpeg?q=50",
+        "category": "Fashion",
+        "sub_category": "clothing-and-accessories",
+        "seller": "SuperComNet"
+    },
+    {
+        "offers": [
+            {
+                "offer_name": "AU Bank Debit Cards",
+                "offer_description": "Bank Offer10% Instant Discount on AU Bank Debit Cards"
+            },
+            {
+                "offer_name": "Flipkart Axis Bank Credit Card",
+                "offer_description": "Bank Offer5% Unlimited Cashback on Flipkart Axis Bank Credit Card"
+            }
+        ],
+        "product_specifications": [
+            "Pack of 1",
+            "Quantity:500 g",
+            "Type:Dates",
+            "Maximum Shelf Life:9 Months"
+        ],
+        "reviews": [],
+        "pid": 127,
+        "product_name": "Striped Men Round Neck Blue, Yellow T-Shirt",
+        "price": 449,
+        "product_image": "https://rukminim1.flixcart.com/image/800/960/ke4kjgw0-0/t-shirt/r/w/x/s-101-try-this-original-imafuvgbqkvhtmwp.jpeg?q=50",
+        "category": "Fashion",
+        "sub_category": "clothing-and-accessories",
+        "seller": "SuperComNet"
+    },
+    {
+        "offers": [
+            {
+                "offer_name": "AU Bank Debit Cards",
+                "offer_description": "Bank Offer10% Instant Discount on AU Bank Debit Cards"
+            },
+            {
+                "offer_name": "Flipkart Axis Bank Credit Card",
+                "offer_description": "Bank Offer5% Unlimited Cashback on Flipkart Axis Bank Credit Card"
+            }
+        ],
+        "product_specifications": [
+            "Pack of 1",
+            "Quantity:500 g",
+            "Type:Dates",
+            "Maximum Shelf Life:9 Months"
+        ],
+        "reviews": [],
+        "pid": 128,
+        "product_name": "AR11201 Aviator Analog Watch - For Men",
+        "price": 23996,
+        "product_image": "https://rukminim1.flixcart.com/image/800/960/jua4djk0/watch/2/f/4/ar11201-emporio-armani-original-imaffgdefefah9ru.jpeg?q=50",
+        "category": "Fashion",
+        "sub_category": "Watches",
+        "seller": "RetailNet"
+   },
+    {
+        "offers": [
+            {
+                "offer_name": "AU Bank Debit Cards",
+                "offer_description": "Bank Offer10% Instant Discount on AU Bank Debit Cards"
+            },
+            {
+                "offer_name": "Flipkart Axis Bank Credit Card",
+                "offer_description": "Bank Offer5% Unlimited Cashback on Flipkart Axis Bank Credit Card"
+            }
+        ],
+        "product_specifications": [
+            "Pack of 1",
+            "Quantity:500 g",
+            "Type:Dates",
+            "Maximum Shelf Life:9 Months"
+        ],
+        "reviews": [],
+        "pid": 129,
+        "product_name": "AR1840 Analog Watch - For Women",
+        "price": 24295,
+        "product_image": "https://rukminim1.flixcart.com/image/800/960/kk76wsw0/watch/m/z/4/ar1840-emporio-armani-original-imafzh9zg6qhgajp.jpeg?q=50",
+        "category": "Fashion",
+        "sub_category": "Watches",
+        "seller": "CoracleIndia
+    },
+    {
+        "offers": [
+            {
+                "offer_name": "AU Bank Debit Cards",
+                "offer_description": "Bank Offer10% Instant Discount on AU Bank Debit Cards"
+            },
+            {
+                "offer_name": "Flipkart Axis Bank Credit Card",
+                "offer_description": "Bank Offer5% Unlimited Cashback on Flipkart Axis Bank Credit Card"
+            }
+        ],
+        "product_specifications": [
+            "Pack of 1",
+            "Quantity:500 g",
+            "Type:Dates",
+            "Maximum Shelf Life:9 Months"
+        ],
+        "reviews": [],
+        "pid": 130,
+        "product_name": "EX494 Edifice ( EFR-556GY-1AVUDF ) Analog Watch - For Men",
+        "price": 10995,
+        "product_image": "https://rukminim1.flixcart.com/image/800/960/jv6zi4w0/watch/m/q/c/ex494-casio-original-imafg5bxz5hfnzfa.jpeg?q=50",
+        "category": "Fashion",
+        "sub_category": "Watches",
+        "seller": "Wizrob Fashin"
+    },
+    {
+        "offers": [
+            {
+                "Offer_name": "Flipkart Axis Bank Credit Card",
+                "offer_description": "Bank Offer5% Unlimited Cashback on Flipkart Axis Bank Credit Card"
+            },
+            {
+                "Offer_name": "GST",
+                "offer_description": "GST Invoice is available for this Product"
+            }
+        ],
+        "product_specifications": [
+            "pack of 1",
+            "quantity:100"
+        ],
+        "reviews": [],
+        "pid": 131,
+        "product_name": "Happilo Natural Premium Californian Almonds zero cholestrol",
+        "price": 1000,
+        "product_image": "https://rukminim1.flixcart.com/image/416/416/kkr72q80/nut-dry-fruit/w/h/g/100-natural-california-pouch-happilo-original-imagyf94x3fgjqff.jpeg?q=70",
+        "category": "Grocery",
+        "sub_category": "Staples",
+        "seller": "SuperComNet"
+    }
+]
