@@ -1,6 +1,6 @@
 export default function(state=null,action){
     switch(action.type){
-        case "PRODUCTS":
+        case "ALL_PRODUCTS":
             return action.payload.data;
 
         case "ADD_PRODUCT":
@@ -12,12 +12,15 @@ export default function(state=null,action){
             {
                 return false;
             };
+
         case "VIEW_PRODUCT":
             console.log('view products reducer',action.payload.data);
             return action.payload.data;
-        // case "STORE_ID":
-        //     console.log('view product ID reducer',action.payload.data);
-        //     return action.payload;
+
+        case "DELETE_PRODUCT":
+            console.log("delete product reducer",action.payload.data);
+            return action.payload.data;
+
         default :
             console.log("im products default");
             return []
