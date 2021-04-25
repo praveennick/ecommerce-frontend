@@ -5,7 +5,8 @@ import React from 'react'
 import Products from './containers/Products';
 import Login from './containers/Login';
 import Header from './containers/Header';
-import {HashRouter, Route} from 'react-router-dom';
+// import {HashRouter, Route} from 'react-router-dom';
+import {BrowserRouter as Router,Switch,Route,Link,Redirect} from 'react-router-dom';
 import Dashboard from './containers/Dashboard';
 import AddProduct from './containers/AddProduct';
 import ViewProduct from './containers/ViewProduct';
@@ -17,7 +18,7 @@ function App() {
   return (
      <div className="App">
       <React.Fragment>
-        <HashRouter>
+        <Router>
             <Header/>
             {/* <Route path="/login" component={Login} />
             <Route path="/register" component={Register} style={{float:"right"}}/>
@@ -27,7 +28,7 @@ function App() {
             <Route path="/viewProduct" component={ViewProduct}/>
             <Route path="/admin-products" component={AdminProducts}/>
             <Route path="/deleteProduct" component={DeleteProduct}/> */}
-        </HashRouter>
+        </Router>
          
        
         {/* <Register/> */}
