@@ -70,6 +70,17 @@ class Register extends React.Component {
                           required
                         />
                       </div>
+                      <div className="form-group">
+                        <label htmlFor="email">Mobile</label>
+                        <input
+                          id="mobile"
+                          type="text"
+                          className="form-control"
+                          name="mobile"
+                          onChange={this.inputChanged}
+                          required
+                        />
+                      </div>
 
                       <div className="form-group">
                         <label htmlFor="password">Password</label>
