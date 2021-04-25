@@ -2,15 +2,15 @@ import logo from './logo.svg';
 import './App.css';
 import Register from './containers/Register';
 import React from 'react'
-// import Products from './containers/Products';
-// import Login from './containers/Login';
+import Products from './containers/Products';
+import Login from './containers/Login';
 import Header from './containers/Header';
 import {HashRouter, Route} from 'react-router-dom';
-// import Dashboard from './containers/Dashboard';
-// import AddProduct from './containers/AddProduct';
-// import ViewProduct from './containers/ViewProduct';
-// import AdminProducts from './containers/AdminProducts';
-// import DeleteProduct from './containers/DeleteProduct';
+import Dashboard from './containers/Dashboard';
+import AddProduct from './containers/AddProduct';
+import ViewProduct from './containers/ViewProduct';
+import AdminProducts from './containers/AdminProducts';
+import DeleteProduct from './containers/DeleteProduct';
 
 
 function App() {
