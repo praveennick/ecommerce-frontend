@@ -1,13 +1,19 @@
 import React from 'react';
-import { NavLink } from 'react-router-dom';
+import { NavLink,Route} from 'react-router-dom';
 import './header.css'
+import Home from './Home';
+import Register from './Register';
+import Login from './Login';
+import Product from './Product';
+import ViewProduct from './ViewProduct';
 
 class Header extends React.Component{
     render() {
         return (
+          <React.Fragment>
           <nav className="navbar navbar-expand-sm bg-dark navbar-dark sticky-top">
         {/* Brand/logo */}
-        <NavLink className="navbar-brand" to="/products">Ecommerce</NavLink>
+        <NavLink className="navbar-brand" to="/">Ecommerce</NavLink>
         {/* Links */}
         <ul className="navbar-nav">
           <li className="nav-item">
@@ -23,6 +29,12 @@ class Header extends React.Component{
           </li>
         </ul>
       </nav>
+      <Route path="/" exact component={Home}></Route>
+      <Route path="/register" exact component={Register}></Route>
+      <Route path="/login" component={Login}></Route>
+      <Route path="/product" component={Product}></Route>
+      <Route path="/viewProduct" component={ViewProduct}></Route>
+      </React.Fragment>
         )
     }
 }
