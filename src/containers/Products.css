@@ -20,3 +20,9 @@ img {
 button{
     margin-right: 5px;
 }
+.btn-danger{
+    margin-left: 5px;
+}
+p{
+    padding-top: 10px;
+}
