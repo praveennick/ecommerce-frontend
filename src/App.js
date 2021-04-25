@@ -7,6 +7,7 @@ import Login from './containers/Login';
 import Header from './containers/Header';
 // import {HashRouter, Route} from 'react-router-dom';
 import {BrowserRouter as Router,Switch,Route,Link,Redirect} from 'react-router-dom';
+
 import Dashboard from './containers/Dashboard';
 import AddProduct from './containers/AddProduct';
 import ViewProduct from './containers/ViewProduct';
