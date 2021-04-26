@@ -23,3 +23,22 @@ export function loginUser(user){
     payload:promise
   }
 }
+
+export function displayUser(username){
+  console.log("display action called")
+  // var sid=JSON.parse(localStorage.getItem("id"))
+  var promise = axios.get(`${URL}user/getUserById/`+username);
+  console.log("promise",promise);
+  return{
+      type:"DISPLAY_USER",
+      payload:promise
+  }
+}
+
+export function logoutUser(){
+  console.log("user loggedout");
+  return{
+      type:"LOGOUT",
+      payload:"hello"
+  }
+}

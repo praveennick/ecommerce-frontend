@@ -11,6 +11,14 @@ export default function(state=null,action){
             console.log('action.payload.data',action.payload.data);
             console.log("HELLO THIS IS login")
             return true;
+
+            case "DISPLAY_USER":
+                console.log("display ac data",action.payload.data)
+                return action.payload.data; 
+    
+            case "LOGOUT":
+                console.log("User Logged Out!");
+                return false;
         default:
             console.log("Im in default");
             return false;

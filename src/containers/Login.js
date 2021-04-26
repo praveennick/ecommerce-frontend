@@ -25,12 +25,13 @@ class Login extends React.Component {
     event.preventDefault();
     console.log("state",this.state);
     this.props.loginUser(this.state);
+    sessionStorage.setItem("username",this.state.username)
     alert("login success");
   }
   render() {
     console.log("In login","userLogged:"+this.props.isUserLoggedIn)
     if(this.props.isUserLoggedIn){
-      this.props.history.push('/dashboard');
+      this.props.history.push('/');
     }
     return (
       <div className="my-login-page">
@@ -51,8 +52,8 @@ class Login extends React.Component {
                         </select>
                       </div>
                       <div className="form-group">
-                        <label>E-mail</label>
-                        <input id="email" type="email" onChange={this.inputChanged} className="form-control" name="email" required/>
+                        <label>Username</label>
+                        <input id="email" type="username" onChange={this.inputChanged} className="form-control" name="username" required/>
                       </div>
                       <div className="form-group">
                         <label htmlFor="password">
@@ -73,7 +74,7 @@ class Login extends React.Component {
                         </div>
                       </div>
                       <div className="form-group m-0">
-                        <button type="submit" onClick={this.login} disabled={!(this.state.role && this.state.email && this.state.password)} className="btn btn-primary btn-block">
+                        <button type="submit" onClick={this.login} disabled={!(this.state.role && this.state.username && this.state.password)} className="btn btn-primary btn-block">
                           Login
                         </button>
                       </div>
