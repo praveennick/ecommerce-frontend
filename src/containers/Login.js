@@ -7,7 +7,7 @@ class Login extends React.Component {
   constructor(){
     super();
     this.state={
-        email:"",
+        username:"",
         password:"",
         role:""
     }
@@ -53,7 +53,7 @@ class Login extends React.Component {
                       </div>
                       <div className="form-group">
                         <label>Username</label>
-                        <input id="email" type="username" onChange={this.inputChanged} className="form-control" name="username" required/>
+                        <input id="username" type="text" onChange={this.inputChanged} className="form-control" name="username" required/>
                       </div>
                       <div className="form-group">
                         <label htmlFor="password">
