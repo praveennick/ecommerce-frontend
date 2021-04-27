@@ -50,6 +50,7 @@ class Header extends React.Component{
         </ul>
         <ul className="navbar-nav ml-auto">
         {this.props.isUserLoggedIn?null:<li><NavLink to="/login" style={{textDecoration:"none",color:"white"}}>Login</NavLink></li>}
+        {console.log("is userLogedin in home:",this.props.isUserLoggedIn)}
         </ul>
       </nav>
       <Route path="/" exact component={Home}></Route>
