@@ -8,17 +8,22 @@ export default function(state=null,action){
                 return true;
             }
         case "LOGIN":
-            console.log('action.payload.data',action.payload.data);
-            console.log("HELLO THIS IS login")
-            return true;
-
-            case "DISPLAY_USER":
-                console.log("display ac data",action.payload.data)
-                return action.payload.data; 
-    
-            case "LOGOUT":
-                console.log("User Logged Out!");
+            console.log("hello this is login",action);
+            if (action.payload.data.result) {
+                return true;
+            }else{
+                alert("Incorrect password");    
+                // localStorage.setItem("message",action.payload.data.message)
                 return false;
+            }
+
+        case "DISPLAY_USER":
+            console.log("display ac data",action.payload.data)
+            return action.payload.data; 
+    
+        case "LOGOUT":
+            console.log("User Logged Out!");
+            return false;
         default:
             console.log("Im in default");
             return false;
