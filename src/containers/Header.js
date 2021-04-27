@@ -51,7 +51,7 @@ class Header extends React.Component{
         </ul>
         <ul className="navbar-nav ml-auto">
         {this.props.isUserLoggedIn?<li className="nav-item dropdown" style={{padding:"0px"}}>
-		        <a className="nav-link  dropdown-toggle" href="#" data-bs-toggle="dropdown" style={{padding:"0px",color:"white"}}> {this.props.isUserLoggedIn.username}  </a>
+		        <a className="nav-link  dropdown-toggle" href="#" data-bs-toggle="dropdown" style={{padding:"0px",color:"white"}}> {sessionStorage.getItem("username")}  </a>
 		        <ul className="dropdown-menu" style={{color:"black",textAlign:"center",padding:"0px"}}>
 			      <li><NavLink className="dropdown-item" to="/my-profile" style={{color:"black",padding:"0px 0px",textAlign:"justify",textDecoration:"none"}}> <i className="fa fa-user-o" aria-hidden="true"/>
             My Profile</NavLink></li>
