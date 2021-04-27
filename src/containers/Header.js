@@ -9,6 +9,7 @@ import ViewProduct from './ViewProduct';
 import { bindActionCreators } from 'redux';
 import {logoutUser,displayUser} from '../actions/userAction';
 import { connect } from 'react-redux';
+import Dashboard from './Dashboard';
 
 
 class Header extends React.Component{
@@ -58,6 +59,7 @@ class Header extends React.Component{
       <Route path="/login" component={Login}></Route>
       <Route path="/product" component={Product}></Route>
       <Route path="/viewProduct" component={ViewProduct}></Route>
+      <Route path="/dashboard" component={Dashboard}></Route>
       </React.Fragment>
         )
     }
