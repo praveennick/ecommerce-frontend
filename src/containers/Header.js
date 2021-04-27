@@ -6,6 +6,7 @@ import Register from './Register';
 import Login from './Login';
 import Product from './Product';
 import ViewProduct from './ViewProduct';
+import Dashboard from './Dashboard';
 import { bindActionCreators } from 'redux';
 import {logoutUser,displayUser} from '../actions/userAction';
 import { connect } from 'react-redux';
