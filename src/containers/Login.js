@@ -29,10 +29,11 @@ class Login extends React.Component {
     alert("login success");
   }
   render() {
-    console.log("In login","userLogged:"+this.props.isUserLoggedIn)
+    console.log("In login","userLogged:"+this.props.isUserLoggedIn);
     if(this.props.isUserLoggedIn){
       this.props.history.push('/');
     }
+    
     return (
       <div className="my-login-page">
         <section className="h-100">
