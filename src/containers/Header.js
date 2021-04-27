@@ -49,14 +49,7 @@ class Header extends React.Component{
           </li>
         </ul>
         <ul className="navbar-nav ml-auto">
-        {this.props.isUserLoggedIn?<li className="nav-item dropdown" style={{padding:"0px"}}>
-		        <a className="nav-link  dropdown-toggle" href="#" data-bs-toggle="dropdown" style={{padding:"0px",color:"white"}}> {this.props.isUserLoggedIn.username}  </a>
-		        <ul className="dropdown-menu" style={{color:"black",textAlign:"center",padding:"0px"}}>
-			      <li><NavLink className="dropdown-item" to="/my-profile" style={{color:"black",padding:"0px 0px",textAlign:"justify",textDecoration:"none"}}> <i className="fa fa-user-o" aria-hidden="true"/>
-            My Profile</NavLink></li>
-			      <li><a className="dropdown-item" onClick={this.logout} href="#" style={{color:"black",padding:"0px"}}> Logout </a></li>
-		        </ul>
-		      </li>:<li><NavLink to="/login" style={{textDecoration:"none",color:"white"}}>Login</NavLink></li>}
+        {this.props.isUserLoggedIn?null:<li><NavLink to="/login" style={{textDecoration:"none",color:"white"}}>Login</NavLink></li>}
         </ul>
       </nav>
       <Route path="/" exact component={Home}></Route>
